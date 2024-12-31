@@ -1,4 +1,4 @@
-# Get It Done
+# Git It Done
 
 ## Built With
 * HTML
