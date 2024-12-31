@@ -6,4 +6,4 @@
 * JS
 
 ## Website
-https://junesummerblossom.github.io/get-it-done/
+https://junesummerblossom.github.io/git-it-done/
