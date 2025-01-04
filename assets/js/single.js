@@ -81,4 +81,10 @@ var getRepoName = function() {
   }
 };
 
+getFeaturedRepos = function(language) {
+  var apiUrl = "https://api.github.com/search/repositories?q=" + language + "+is:featured&sort=help-wanted-issues";
+
+  fetch(apiUrl);
+};
+
 getRepoName();
